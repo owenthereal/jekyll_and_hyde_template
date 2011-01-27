@@ -1,7 +1,0 @@
-# Why?
-
-## Simplicity
-
-<div class="center" markdown="1">
-	![Textmate](images/simplicity.png)
-</div>
