@@ -1,0 +1,11 @@
+# Learning More
+
+Source code: [https://github.com/jingweno/jekyll_and_hyde][1]
+
+Wiki: [https://github.com/jingweno/jekyll_and_hyde/wiki][2]
+
+Issue: [https://github.com/jingweno/jekyll_and_hyde/issues][3]
+
+[1]: https://github.com/jingweno/jekyll_and_hyde
+[2]: https://github.com/jingweno/jekyll_and_hyde/wiki
+[3]: https://github.com/jingweno/jekyll_and_hyde/issues

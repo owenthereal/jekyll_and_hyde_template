@@ -1,0 +1,7 @@
+# Why?
+
+## proven best practise ever
+
+<div class="center" markdown="1">
+	![Why Jekyll?](images/why_jekyll.png)
+</div>

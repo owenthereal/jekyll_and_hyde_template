@@ -1,0 +1,11 @@
+# Jekyll
+
+1. a blog aware static site generator 
+2. powering [GitHub Pages][1]
+3. markdown/textile in, html out
+
+<div class="center" markdown="1">
+	![How Jekyll Works?](images/jekyll.png)
+</div>
+
+[1]: http://pages.github.com/

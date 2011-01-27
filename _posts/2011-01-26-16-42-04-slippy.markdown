@@ -1,0 +1,5 @@
+# Slippy
+
+1. a HTML Presentation library written with jQuery
+2. takes a html file in and plays it in any browser
+3. \[Left\]/\[Right\] arrows to move, \[Space\] or \[Double Click\] to go to next slide, \[ESC\]/\[Del\]/\[Tab\] to overview, \[0-9\] keys followed by \[Enter\] to go straight to one slide

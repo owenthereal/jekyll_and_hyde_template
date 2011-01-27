@@ -1,0 +1,17 @@
+# How?
+
+Installation:
+
+	> gem install jekyll
+	> gem install jekyll_and_hyde
+
+Generation:
+
+	> jh new my_slides
+	> cd my_slides
+	> jh generate first-slide
+
+Other tasks:
+	
+	> jh list [SEARCH]
+	> jh help [TASK]

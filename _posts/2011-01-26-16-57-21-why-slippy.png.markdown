@@ -1,0 +1,7 @@
+# Why?
+
+## works everywhere
+
+<div class="center" markdown="1">
+	![Why Slippy?](images/why_slippy.png)
+</div>

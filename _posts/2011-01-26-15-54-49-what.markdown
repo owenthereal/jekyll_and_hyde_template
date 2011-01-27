@@ -1,0 +1,10 @@
+# What?
+
+## [jekyll_and_hyde][1] => ([jekyll][1] + [slippy][2])
+
+1. a simple HTML presentation generator 
+2. generates a basic [jekyll][1] scaffold with [slippy][2] hooking up
+
+[1]: https://github.com/jingweno/jekyll_and_hyde
+[2]: https://github.com/mojombo/jekyll
+[3]: https://github.com/Seldaek/slippy
